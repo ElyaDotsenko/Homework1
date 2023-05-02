@@ -1,0 +1,20 @@
+package lesson3;
+
+public class Homework1 {
+    public static void main(String[] args) {
+        char j = 'G';
+        System.out.println(j);
+        int a = 89;
+        System.out.println(a);
+        byte b = 4;
+        System.out.println(b);
+        short c = 56;
+        System.out.println(c);
+        float d = 4.7333436f;
+        System.out.println(d);
+        double e = 4.355453532;
+        System.out.println(e);
+        long f = 12121;
+        System.out.println(f);
+    }
+}
